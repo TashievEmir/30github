@@ -5,7 +5,7 @@ namespace WebAPI.Controllers
 {
     [Route("api/v1/[controller]")]
     [ApiController]
-    public class AccountsController : ControllerBase
+    public class AccountsController : BaseController
     {
     }
 }
