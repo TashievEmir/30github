@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities.Accounts
 {
-    internal class Member
+    public class Member
     {
     }
 }
