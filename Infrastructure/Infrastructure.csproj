@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Authorizations\" />
     <Folder Include="Configurations\" />
     <Folder Include="Persistances\" />
   </ItemGroup>
