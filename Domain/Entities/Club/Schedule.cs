@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities.Club
 {
-    internal class Schedule
+    public class Schedule
     {
     }
 }
